@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:9
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:8.316667,
+https://p21-ad-sg.ibyteimg.com/obj/ad-site-i18n-sg/202503275d0d8b51ff130a7a4d8ba04b
+#EXTINF:4.166667,
+https://p21-ad-sg.ibyteimg.com/obj/ad-site-i18n-sg/202503275d0da2cf47e08332473b9ac8
+#EXT-X-ENDLIST
